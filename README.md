@@ -15,7 +15,7 @@
 </figure>
 </center>
 
-​		            **原图** 											**Contronet对比图** 
+
 
 ### Lineart
 
@@ -26,7 +26,7 @@
 </figure>
 </center>
 
-​		            **原图** 											**Contronet对比图** 
+
 
 ### Tile
 
@@ -37,7 +37,7 @@
 </figure>
 </center>
 
-​		            **原图** 											**Contronet对比图** 
+
 
 
 
